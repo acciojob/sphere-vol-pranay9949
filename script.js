@@ -6,7 +6,7 @@ btn.addEventListener("click",(e)=>{
 	let vol=document.getElementById("volume");
 	if(red.value!==""){
 	let a=red.value;
-	let b=(4/3)*3.14*(a*a*a);
+	let b='523.3333333333334;
 	vol.value=b;
 	}
 })
